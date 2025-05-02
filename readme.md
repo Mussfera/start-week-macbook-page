@@ -9,7 +9,7 @@ Este projeto é uma recriação fiel da landing page oficial do **MacBook Air** 
 ## 📸 Preview
 
 ![Preview do Projeto](./src/assets/images/preview.jpg)  
-🔗 [Clique aqui para acessar o site ao vivo](https://mussfera.github.io/start-week-macbook-page/)  
+🔗 [Página com o MacBook Air](https://mussfera.github.io/start-week-macbook-page/)  
 *Visual da interface desenvolvida, inspirado no site original da Apple.*
 
 ---
